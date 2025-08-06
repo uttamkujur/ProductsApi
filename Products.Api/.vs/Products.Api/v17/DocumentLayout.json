@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D64EDF-C48F-4271-8863-EB9F34906A5C}|..\\Products.Infrastructure\\Products.Infrastructure.csproj|c:\\users\\utj1kor\\documents\\task\\products.infrastructure\\products.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D64EDF-C48F-4271-8863-EB9F34906A5C}|..\\Products.Infrastructure\\Products.Infrastructure.csproj|c:\\users\\utj1kor\\documents\\task\\products.infrastructure\\migrations\\20250804170929_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D64EDF-C48F-4271-8863-EB9F34906A5C}|..\\Products.Infrastructure\\Products.Infrastructure.csproj|c:\\users\\utj1kor\\documents\\task\\products.infrastructure\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E010DE10-6491-4298-AD2F-4B9F1C7BFC40}|..\\Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\products.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:products.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E010DE10-6491-4298-AD2F-4B9F1C7BFC40}|..\\Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\products.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D64EDF-C48F-4271-8863-EB9F34906A5C}|..\\Products.Infrastructure\\Products.Infrastructure.csproj|c:\\users\\utj1kor\\documents\\task\\products.infrastructure\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E010DE10-6491-4298-AD2F-4B9F1C7BFC40}|..\\Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D64EDF-C48F-4271-8863-EB9F34906A5C}|..\\Products.Infrastructure\\Products.Infrastructure.csproj|c:\\users\\utj1kor\\documents\\task\\products.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E010DE10-6491-4298-AD2F-4B9F1C7BFC40}|..\\Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|c:\\users\\utj1kor\\documents\\task\\products.api\\products.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CCDF1D56-F47F-44F8-8107-2D3BF737C8D0}|Products.Api.csproj|solutionrelative:products.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T18:28:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:40:46.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T15:57:20.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Products.Domain\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\ProductDbContext.cs",
+              "RelativeToolTip": "..\\Products.Domain\\ProductDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:51:42.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Products.Infrastructure\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
+              "RelativeToolTip": "..\\Products.Infrastructure\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:54:59.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:47:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250804170929_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Migrations\\20250804170929_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Products.Infrastructure\\Migrations\\20250804170929_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Migrations\\20250804170929_InitialCreate.cs",
+              "RelativeToolTip": "..\\Products.Infrastructure\\Migrations\\20250804170929_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:09:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Products.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Products.Infrastructure\\Products.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Products.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Products.Infrastructure\\Products.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T16:59:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.Api",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Products.Api.csproj",
+              "RelativeDocumentMoniker": "Products.Api.csproj",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Products.Api.csproj",
+              "RelativeToolTip": "Products.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T18:17:38.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.Domain",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Products.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Products.Domain\\Products.Domain.csproj",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Products.Domain.csproj",
+              "RelativeToolTip": "..\\Products.Domain\\Products.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T18:17:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Products.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Products.Infrastructure\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:09:44.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Products.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\Products.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:54:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Products.Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
+              "RelativeToolTip": "..\\Products.Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:50:58.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Controllers\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:50:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:57:38.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T15:57:52.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Products.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Products.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:17:18.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Products.Api.http",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Products.Api.http",
+              "RelativeDocumentMoniker": "Products.Api.http",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Api\\Products.Api.http",
+              "RelativeToolTip": "Products.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-04T15:16:25.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
