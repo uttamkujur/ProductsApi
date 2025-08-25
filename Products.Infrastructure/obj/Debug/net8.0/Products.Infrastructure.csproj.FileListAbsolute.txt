@@ -11,6 +11,7 @@ C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Product
 C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.AssemblyInfo.cs
 C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.sourcelink.json
 C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Products.D1D4EC6E.Up2Date
 C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Infrastructure\obj\Debug\net8.0\refint\Products.Infrastructure.dll

@@ -21,8 +21,6 @@ namespace Products.Infrastructure
                 .AddJsonFile("appsettings.Development.json", optional: true)
                 .Build();
 
-            Console.WriteLine("Connection----------------------------: " + configuration.GetConnectionString("ProductDbConnection"));
-
             var optionsBuilder = new DbContextOptionsBuilder<ProductDbContext>();
 
             var connectionString = configuration.GetConnectionString("ProductDbConnection");

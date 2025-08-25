@@ -14,12 +14,13 @@ namespace Products.Infrastructure
         {
             base.OnModelCreating(modelBuilder);
 
-            // Ensure ProductId is unique
             modelBuilder.Entity<Product>()
-                //.HasIndex(p => p.ProductId)
-                .Property(p => p.ProductId)
+                .Property(p => p.Id)
                 .UseIdentityColumn(seed: 100000, increment: 1);
-                //.IsUnique();
+
+            modelBuilder.Entity<Product>()
+            .HasIndex(p => new { p.Brand, p.Model })
+            .IsUnique();
         }
     }
 }

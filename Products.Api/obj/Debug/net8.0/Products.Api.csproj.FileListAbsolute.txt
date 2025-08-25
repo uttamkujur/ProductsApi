@@ -50,6 +50,7 @@ C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensio
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
@@ -183,6 +184,7 @@ C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.Api.Assem
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.Api.csproj.CoreCompileInputs.cache
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.Api.sourcelink.json
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -191,6 +193,7 @@ C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\staticwebassets.bu
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.83E5BBC8.Up2Date
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\Products.Api.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Api\obj\Debug\net8.0\refint\Products.Api.dll

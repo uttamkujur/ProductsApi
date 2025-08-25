@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Products.Application.Dto;
 
 namespace Products.Domain.Repositories
@@ -14,9 +15,8 @@ namespace Products.Domain.Repositories
         Task AddAsync(Product product);
         Task UpdateAsync(Product product);
         Task DeleteAsync(int id);
-
-        // Custom operations
         Task<bool> DecrementStockAsync(int productId, int quantity);
         Task<bool> IncreaseStockAsync(int productId, int quantity);
+        Task SaveAsync();
     }
 }

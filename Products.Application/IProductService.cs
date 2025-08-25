@@ -1,4 +1,5 @@
-﻿using Products.Application.Dto;
+﻿using Microsoft.AspNetCore.Mvc;
+using Products.Application.Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,12 +11,15 @@ namespace Products.Application
 {
     public interface IProductService
     {
-        Task<ProductDto> GetProductByIdAsync(int id);
+        Task<ActionResult<ProductDto>> GetProductByIdAsync(int id);
         Task<IEnumerable<ProductDto>> GetAllProductsAsync();
         Task<bool> AddProductAsync(CreateProductDto dto);
         Task<bool> UpdateProductAsync(UpdateProductDto dto);
         Task<bool> DeleteProductAsync(int id);
-        Task<bool> DecrementStockAsync(int id, int quantity);
-        Task<bool> IncreaseStockAsync(int id, int quantity);
+        Task<IActionResult> DecrementStockAsync(int id, int quantity);
+        Task<IActionResult> IncreaseStockAsync(int id, int quantity);
     }
 }
+
+
+

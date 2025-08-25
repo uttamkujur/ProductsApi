@@ -2,7 +2,7 @@
   {
     "ContainingType": "Products.Api.Controller",
     "Method": "GetProducts",
-    "RelativePath": "api/[controller]",
+    "RelativePath": "api/products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "Products.Api.Controller",
     "Method": "PostProduct",
-    "RelativePath": "api/[controller]",
+    "RelativePath": "api/products",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -47,8 +47,50 @@
   },
   {
     "ContainingType": "Products.Api.Controller",
+    "Method": "IncrementStock",
+    "RelativePath": "api/products/add-to-stock/{id}/{quantity}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "quantity",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Products.Api.Controller",
+    "Method": "DecrementStock",
+    "RelativePath": "api/products/decrement-stock/{id}/{quantity}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "quantity",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Products.Api.Controller",
     "Method": "GetProduct",
-    "RelativePath": "api/[controller]/{id}",
+    "RelativePath": "api/products/id",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -61,7 +103,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Products.Domain.Product",
+        "Type": "Products.Application.Dto.ProductDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -74,7 +116,7 @@
   {
     "ContainingType": "Products.Api.Controller",
     "Method": "PutProduct",
-    "RelativePath": "api/[controller]/{id}",
+    "RelativePath": "api/products/id",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -88,11 +130,6 @@
         "Name": "product",
         "Type": "Products.Application.Dto.UpdateProductDto",
         "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
-        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -100,7 +137,7 @@
   {
     "ContainingType": "Products.Api.Controller",
     "Method": "DeleteProduct",
-    "RelativePath": "api/[controller]/{id}",
+    "RelativePath": "api/products/id",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -108,49 +145,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Products.Api.Controller",
-    "Method": "DecrementStock",
-    "RelativePath": "api/[controller]/{id}/decrement",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "Products.Application.Dto.DecrementStockDto",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Products.Api.Controller",
-    "Method": "IncrementStock",
-    "RelativePath": "api/[controller]/{id}/increment",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "Products.Application.Dto.IncrementStockDto",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

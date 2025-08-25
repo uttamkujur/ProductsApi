@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Rewrite;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Products.Application;
 using Products.Domain;
@@ -27,7 +28,6 @@ public class Startup
         services.AddDbContext<ProductDbContext>(options =>
             options.UseSqlServer(Configuration["ConnectionStrings:ProductDbConnection"],
             b => b.MigrationsAssembly("Products.Infrastructure")));
-        Console.WriteLine("Connection----------------------------: " + Configuration.GetConnectionString("ProductDbConnection"));
 
         services.AddScoped<IProductRepository, ProductRepository>();
         services.AddScoped<IProductService, ProductService>();
@@ -40,23 +40,15 @@ public class Startup
     {
         //app.UseMiddleware<ExceptionMiddleware>();
 
-
-
-
         if (env.IsDevelopment())
         {
             app.UseDeveloperExceptionPage();
+
             app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Products API V1");
-                c.RoutePrefix = ""; // Makes Swagger UI available at the root URL
-            });
+
+            app.UseSwaggerUI();
         }
-
-
         app.UseRouting();
-        //app.UseAuthorization();
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapControllers();

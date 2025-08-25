@@ -7,15 +7,23 @@ namespace Products.Domain;
 
 public class Product
 {
-    //[Key]
-    //public int Id { get; set; }
     [Key]
     [Required]
     [StringLength(6)]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public int ProductId { get; set; }
+    public int Id { get; set; }
+    public string Brand { get; set; }
+    public string Model { get; set; }
     public string Name { get; set; }
     public string Description { get; set; }
     public int Price { get; set; }
     public int AvailableStock { get; set; } = 0; // Default stock to 0
+    public bool IsActive { get; set; } = true; // Default to active
+
+    public static void Configure(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Product>()
+            .HasIndex(p => new { p.Brand, p.Model })
+            .IsUnique(); 
+    }
 }

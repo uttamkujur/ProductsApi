@@ -1,13 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Products.Application.Dto;
-using Products.Application.Utilities;
+﻿using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 using Products.Domain;
 using Products.Domain.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 namespace Products.Infrastructure.Repositories
@@ -23,28 +17,40 @@ namespace Products.Infrastructure.Repositories
 
         public async Task<Product> GetByIdAsync(int id)
         {
-            return await _dbContext.Products.FindAsync(id);
+            var product =  await _dbContext.Products
+                .Where(p => p.Id == id && p.IsActive).FirstOrDefaultAsync();
+
+            if (product != null)
+            {
+                return product;
+            }
+            return null;
         }
 
         public async Task<IEnumerable<Product>> GetAllAsync()
         {
-            return await _dbContext.Products.ToListAsync();
+            return await _dbContext.Products.Where(p=>p.IsActive.Equals(true)).ToListAsync();
         }
 
         public async Task AddAsync(Product dto)
         {
-            //var product = new Product
-            //{
-            //    ProductId = ProductIdGenerator.GenerateProductId(),
-            //    Name = dto.Name,
-            //    Price = dto.Price,
-            //    AvailableStock = dto.AvailableStock,
-            //    Description = dto.Description
-            //};
-
-            await _dbContext.Products.AddAsync(dto);
-            await _dbContext.SaveChangesAsync();
+            try
+            {
+                await _dbContext.Products.AddAsync(dto);
+                await _dbContext.SaveChangesAsync();
+            }
+            catch (DbUpdateException ex)
+            {
+                // Check if it's a unique constraint violation
+                if (ex.InnerException is SqlException sqlEx && sqlEx.Number == 2601) // 2627 = Unique constraint violation
+                {
+                    throw new InvalidOperationException($"Product with Model '{dto.Model}' and Brand '{dto.Brand}' already exists.");
+                }
+                // Re-throw if it's not the error we expect
+                throw;
+            }
         }
+
 
         public async Task UpdateAsync(Product product)
         {
@@ -62,7 +68,7 @@ namespace Products.Infrastructure.Repositories
             }
         }
 
-        // Custom methods for stock management
+        //Custom methods for stock management
         public async Task<bool> DecrementStockAsync(int productId, int quantity)
         {
             var product = await GetByIdAsync(productId);
@@ -85,6 +91,11 @@ namespace Products.Infrastructure.Repositories
                 return true;
             }
             return false;
+        }
+
+        public async Task SaveAsync()
+        {
+            await _dbContext.SaveChangesAsync();
         }
     }
 }

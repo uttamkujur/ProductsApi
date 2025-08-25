@@ -7,6 +7,7 @@ C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain
 C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain.AssemblyInfoInputs.cache
 C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain.AssemblyInfo.cs
 C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain.csproj.CoreCompileInputs.cache
+C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain.sourcelink.json
 C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\refint\Products.Domain.dll
 C:\Users\UTJ1KOR\Documents\Task\Products.Domain\obj\Debug\net8.0\Products.Domain.pdb
