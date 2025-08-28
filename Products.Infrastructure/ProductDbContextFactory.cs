@@ -14,7 +14,6 @@ namespace Products.Infrastructure
     {
         public ProductDbContext CreateDbContext(string[] args)
         {
-            // Set up config path (go up a directory from Infrastructure to reach Api)
             var configuration = new ConfigurationBuilder()
                 .SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../Products.Api"))
                 .AddJsonFile("appsettings.json")

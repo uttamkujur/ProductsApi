@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +106,91 @@
               "RelativeToolTip": "Products.Domain\\Dto\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:12:25.273Z",
+              "WhenOpened": "2025-08-05T12:12:25.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Application\\ProductService.cs",
+              "RelativeDocumentMoniker": "Products.Application\\ProductService.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Application\\ProductService.cs",
+              "RelativeToolTip": "Products.Application\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:42:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Products.Domain\\Dto\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\CreateProductDto.cs",
+              "RelativeToolTip": "Products.Domain\\Dto\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:42:57.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Products.Domain\\Dto\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\UpdateProductDto.cs",
+              "RelativeToolTip": "Products.Domain\\Dto\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:51:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Products.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Products.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:07:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Products.Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
+              "RelativeToolTip": "Products.Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:08:22.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Products.Infrastructure\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
+              "RelativeToolTip": "Products.Infrastructure\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:23:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Products.Infrastructure\\ProductDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContextFactory.cs",
+              "RelativeToolTip": "Products.Infrastructure\\ProductDbContextFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:54:09.026Z",
               "EditorCaption": ""
             },
             {
@@ -119,99 +203,7 @@
               "RelativeToolTip": "Products.Application\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T13:12:39.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Application\\ProductService.cs",
-              "RelativeDocumentMoniker": "Products.Application\\ProductService.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Application\\ProductService.cs",
-              "RelativeToolTip": "Products.Application\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:42:18.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Products.Domain\\Dto\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\CreateProductDto.cs",
-              "RelativeToolTip": "Products.Domain\\Dto\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:42:57.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Products.Domain\\Dto\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\UpdateProductDto.cs",
-              "RelativeToolTip": "Products.Domain\\Dto\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:51:37.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Products.Domain\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Repositories\\IProductRepository.cs*",
-              "RelativeToolTip": "Products.Domain\\Repositories\\IProductRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T06:07:43.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
-              "RelativeDocumentMoniker": "Products.Domain\\Product.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
-              "RelativeToolTip": "Products.Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:08:22.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "Products.Infrastructure\\ProductDbContext.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
-              "RelativeToolTip": "Products.Infrastructure\\ProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:23:24.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Products.Infrastructure\\ProductDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContextFactory.cs",
-              "RelativeToolTip": "Products.Infrastructure\\ProductDbContextFactory.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:54:09.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T13:12:39.851Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "Products.Api\\Startup.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T10:13:07.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T10:13:07.055Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "Products.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:11:20.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T19:11:20.437Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "Products.Api\\Controllers\\Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T21:56:18.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T21:56:18.847Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": "Products.Tests\\ProductsTest\\Application\\ProductServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:42:01.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:42:01.096Z"
             },
             {
               "$type": "Document",
@@ -275,8 +263,7 @@
               "RelativeToolTip": "Products.Application\\Products.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T21:42:11.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T21:42:11.089Z"
             },
             {
               "$type": "Document",
@@ -288,8 +275,7 @@
               "RelativeToolTip": "Products.Tests\\ProductsTest\\ProductsTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T13:14:10.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T13:14:10.577Z"
             },
             {
               "$type": "Document",
@@ -301,8 +287,7 @@
               "RelativeToolTip": "Products.Infrastructure\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAcwFoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:48:52.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:48:52.058Z"
             },
             {
               "$type": "Document",
@@ -314,8 +299,7 @@
               "RelativeToolTip": "Products.Domain\\Products.Domain.csproj",
               "ViewState": "AgIAABQAAABAZU1ZU0YZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T21:35:54.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T21:35:54.344Z"
             },
             {
               "$type": "Document",
@@ -327,8 +311,7 @@
               "RelativeToolTip": "Products.Infrastructure\\Products.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T18:53:44.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T18:53:44.548Z"
             },
             {
               "$type": "Document",
@@ -340,8 +323,7 @@
               "RelativeToolTip": "Products.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-04T19:11:54.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T19:11:54.59Z"
             },
             {
               "$type": "Document",
@@ -353,8 +335,7 @@
               "RelativeToolTip": "Products.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-04T19:20:29.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T19:20:29.798Z"
             }
           ]
         },

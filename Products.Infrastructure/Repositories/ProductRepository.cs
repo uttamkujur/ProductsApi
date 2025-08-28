@@ -68,7 +68,6 @@ namespace Products.Infrastructure.Repositories
             }
         }
 
-        //Custom methods for stock management
         public async Task<bool> DecrementStockAsync(int productId, int quantity)
         {
             var product = await GetByIdAsync(productId);

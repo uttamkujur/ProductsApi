@@ -29,8 +29,8 @@ public class Startup
             options.UseSqlServer(Configuration["ConnectionStrings:ProductDbConnection"],
             b => b.MigrationsAssembly("Products.Infrastructure")));
 
-        services.AddScoped<IProductRepository, ProductRepository>();
-        services.AddScoped<IProductService, ProductService>();
+        services.AddSingleton<IProductRepository, ProductRepository>();
+        services.AddSingleton<IProductService, ProductService>();
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
     }
@@ -38,8 +38,6 @@ public class Startup
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
-        //app.UseMiddleware<ExceptionMiddleware>();
-
         if (env.IsDevelopment())
         {
             app.UseDeveloperExceptionPage();
