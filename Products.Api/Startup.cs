@@ -29,8 +29,8 @@ public class Startup
             options.UseSqlServer(Configuration["ConnectionStrings:ProductDbConnection"],
             b => b.MigrationsAssembly("Products.Infrastructure")));
 
-        services.AddSingleton<IProductRepository, ProductRepository>();
-        services.AddSingleton<IProductService, ProductService>();
+        services.AddScoped<IProductRepository, ProductRepository>();
+        services.AddScoped<IProductService, ProductService>();
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
     }

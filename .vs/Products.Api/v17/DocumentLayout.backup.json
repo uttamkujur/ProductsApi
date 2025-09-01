@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UTJ1KOR\\Documents\\Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|solutionrelative:products.domain\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77017C3B-6432-48BF-AF6B-84F0106427E2}|Products.Infrastructure\\Products.Infrastructure.csproj|c:\\users\\utj1kor\\documents\\task\\products.infrastructure\\productdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77017C3B-6432-48BF-AF6B-84F0106427E2}|Products.Infrastructure\\Products.Infrastructure.csproj|solutionrelative:products.infrastructure\\productdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|solutionrelative:products.domain\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|solutionrelative:products.domain\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17584724-79C4-4222-BBFB-840D9D82BE2A}|Products.Domain\\Products.Domain.csproj|c:\\users\\utj1kor\\documents\\task\\products.domain\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "Products.Domain\\Dto\\ProductDto.cs",
@@ -106,7 +106,8 @@
               "RelativeToolTip": "Products.Domain\\Dto\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:12:25.273Z"
+              "WhenOpened": "2025-08-05T12:12:25.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UpdateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Dto\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "Products.Domain\\Dto\\UpdateProductDto.cs",
@@ -146,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Products.Domain\\Repositories\\IProductRepository.cs",
@@ -158,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Domain\\Product.cs",
               "RelativeDocumentMoniker": "Products.Domain\\Product.cs",
@@ -170,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "Products.Infrastructure\\ProductDbContext.cs",
@@ -182,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\UTJ1KOR\\Documents\\Task\\Products.Infrastructure\\ProductDbContextFactory.cs",
               "RelativeDocumentMoniker": "Products.Infrastructure\\ProductDbContextFactory.cs",
